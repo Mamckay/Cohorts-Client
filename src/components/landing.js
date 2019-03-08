@@ -1,6 +1,7 @@
 import React from 'react';
+import './css/landing.css';
 
 export default function Landing() {
-    return <div>
+    return <div className='landing-container'>
     </div>
 }
