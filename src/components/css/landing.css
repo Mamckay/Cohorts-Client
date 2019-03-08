@@ -2,3 +2,10 @@
     background-color:#333;
     height: 90vh;
 }
+
+.landing-button{
+    background-color: black; 
+    width: 20vw;
+    height: 10vh;
+    color: white;
+}
